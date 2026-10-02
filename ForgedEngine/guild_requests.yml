@@ -1,0 +1,27 @@
+nextId: 12
+requests:
+- id: 7
+  requesterId: 00000000-0000-0000-0009-01f466f8771b
+  requesterName: .Schnauder5150
+  guildName: BUILDERS
+  timestampEpoch: 1786259297489
+- id: 8
+  requesterId: 00000000-0000-0000-0009-01f69beac5e1
+  requesterName: .EliteZEAN4KS
+  guildName: KAWAII
+  timestampEpoch: 1786619303876
+- id: 9
+  requesterId: 00000000-0000-0000-0009-01fde9fe4549
+  requesterName: .Ashthehunter5
+  guildName: mafia
+  timestampEpoch: 1786710694800
+- id: 10
+  requesterId: 00000000-0000-0000-0009-01fb08027105
+  requesterName: .JudexAETH
+  guildName: AETH
+  timestampEpoch: 1786958282238
+- id: 11
+  requesterId: 00000000-0000-0000-0009-01f1561f5691
+  requesterName: .NickJ35114
+  guildName: CHOYY
+  timestampEpoch: 1787295951716

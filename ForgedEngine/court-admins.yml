@@ -1,0 +1,5 @@
+_comment_1: Names listed here get court GUI access (/fecourt) regardless of permissions.
+_comment_2: Leading dot is correct for a Geyser/Floodgate Bedrock player name (e.g.
+  '.Yuanfreces') - don't strip it.
+names:
+- .Yuanfreces

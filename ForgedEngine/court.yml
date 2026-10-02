@@ -1,0 +1,320 @@
+nextId: 40
+cases:
+- id: 1
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01f7cf754324
+  targetName: .MereBobcat5011
+  reason: 'Automatic anti-cheat ban: flight (airborne without descending for 60 consecutive
+    movements)'
+  timestampEpoch: 1785544118991
+  issuedBy: SYSTEM
+  active: false
+- id: 2
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 'Automatic anti-cheat ban: flight (airborne without descending for 60 consecutive
+    movements)'
+  timestampEpoch: 1785545229060
+  issuedBy: SYSTEM
+  active: false
+- id: 3
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 'Automatic anti-cheat ban: flight (airborne without descending for 60 consecutive
+    movements)'
+  timestampEpoch: 1785654192184
+  issuedBy: SYSTEM
+  active: true
+- id: 4
+  type: ADMIN_KICK
+  targetId: 00000000-0000-0000-0009-01f15069d133
+  targetName: .ArloTHEFARMER
+  reason: ang_cute_ko
+  timestampEpoch: 1785760034392
+  issuedBy: .Yuanfreces
+  active: true
+- id: 5
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01fa74e871ce
+  targetName: .Zekeriouss
+  reason: 'Automatic anti-cheat ban: speed (moved 1.38 blocks in one update, max 1.35)'
+  timestampEpoch: 1785905747767
+  issuedBy: SYSTEM
+  active: true
+- id: 6
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01f0937dcafb
+  targetName: .Burn_MAVS
+  reason: 'Automatic anti-cheat ban: flight (airborne without descending for 60 consecutive
+    movements)'
+  timestampEpoch: 1786081663752
+  issuedBy: SYSTEM
+  active: true
+- id: 7
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01f988028918
+  targetName: .TOSHI_9645
+  reason: 'Automatic anti-cheat ban: flight (airborne without descending for 60 consecutive
+    movements)'
+  timestampEpoch: 1786107998341
+  issuedBy: SYSTEM
+  active: true
+- id: 8
+  type: ANTICHEAT_BAN
+  targetId: 00000000-0000-0000-0009-01fec627e1ff
+  targetName: .Libilily
+  reason: 'Automatic anti-cheat ban: speed (moved 1.55 blocks in one update, max 1.35)'
+  timestampEpoch: 1786144252303
+  issuedBy: SYSTEM
+  active: true
+- id: 9
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01fec627e1ff
+  targetName: .Libilily
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1788002793428
+  issuedBy: SYSTEM
+  active: true
+- id: 10
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f1561f5691
+  targetName: .NickJ35114
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789735208243
+  issuedBy: SYSTEM
+  active: true
+- id: 11
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789902008494
+  issuedBy: SYSTEM
+  active: true
+- id: 12
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789902248493
+  issuedBy: SYSTEM
+  active: true
+- id: 13
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789902608493
+  issuedBy: SYSTEM
+  active: true
+- id: 14
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789914008493
+  issuedBy: SYSTEM
+  active: true
+- id: 15
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789914248493
+  issuedBy: SYSTEM
+  active: true
+- id: 16
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789914848493
+  issuedBy: SYSTEM
+  active: true
+- id: 17
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789915088493
+  issuedBy: SYSTEM
+  active: true
+- id: 18
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789918088493
+  issuedBy: SYSTEM
+  active: true
+- id: 19
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789939688493
+  issuedBy: SYSTEM
+  active: true
+- id: 20
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789941008493
+  issuedBy: SYSTEM
+  active: true
+- id: 21
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789941968493
+  issuedBy: SYSTEM
+  active: true
+- id: 22
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789943768493
+  issuedBy: SYSTEM
+  active: true
+- id: 23
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789944608493
+  issuedBy: SYSTEM
+  active: true
+- id: 24
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789945448493
+  issuedBy: SYSTEM
+  active: true
+- id: 25
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789949048493
+  issuedBy: SYSTEM
+  active: true
+- id: 26
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789952888493
+  issuedBy: SYSTEM
+  active: true
+- id: 27
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789954688493
+  issuedBy: SYSTEM
+  active: true
+- id: 28
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789955168493
+  issuedBy: SYSTEM
+  active: true
+- id: 29
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789956248493
+  issuedBy: SYSTEM
+  active: true
+- id: 30
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789960928493
+  issuedBy: SYSTEM
+  active: true
+- id: 31
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789961888493
+  issuedBy: SYSTEM
+  active: true
+- id: 32
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789962008493
+  issuedBy: SYSTEM
+  active: true
+- id: 33
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789963448493
+  issuedBy: SYSTEM
+  active: true
+- id: 34
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1789964048493
+  issuedBy: SYSTEM
+  active: true
+- id: 35
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1790512011981
+  issuedBy: SYSTEM
+  active: true
+- id: 36
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1790512851981
+  issuedBy: SYSTEM
+  active: true
+- id: 37
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1790557611981
+  issuedBy: SYSTEM
+  active: true
+- id: 38
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1790564931981
+  issuedBy: SYSTEM
+  active: true
+- id: 39
+  type: ILLEGAL_ITEM_REMOVED
+  targetId: 00000000-0000-0000-0009-01f09066fe7f
+  targetName: .ShinreiOnryo
+  reason: 1 forbidden item stack(s) removed on scan
+  timestampEpoch: 1790565531981
+  issuedBy: SYSTEM
+  active: true
+mutedPlayers: []

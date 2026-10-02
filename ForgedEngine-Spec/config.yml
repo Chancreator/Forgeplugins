@@ -1,0 +1,7 @@
+# Put the exact in-game username here (case-insensitive) to let that
+# player use /cespec and /cespecout without needing to be a server
+# operator. Ops can always use these commands regardless of this value.
+#
+# After editing and saving this file, run "/cespecreload" in-game or
+# console to apply the change without restarting the server.
+username: ".ZenithArbiter"

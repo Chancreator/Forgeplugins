@@ -1,0 +1,8 @@
+world: forgedengine_arena
+minX: -40
+minY: 64
+minZ: -40
+maxX: 40
+maxY: 89
+maxZ: 40
+built: true

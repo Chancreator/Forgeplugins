@@ -1,0 +1,108 @@
+guilds:
+  throne_owners:
+    name: Throne_Owners
+    leader: 00000000-0000-0000-0009-01f1facca280
+    treasury: 0
+    territoryLevel: 1
+    active: false
+    warsWon: 0
+    warsLost: 0
+    lastWarEndEpoch: 0
+    titles: []
+    exchangeRate: 0.999978296597082
+    officers: []
+    members: []
+    pendingInvites: []
+    claimedChunks: []
+  the_odyssey:
+    name: The_Odyssey
+    leader: 00000000-0000-0000-0009-01f751cbc874
+    treasury: 62600
+    territoryLevel: 5
+    active: true
+    warsWon: 0
+    warsLost: 0
+    lastWarEndEpoch: 0
+    titles: []
+    exchangeRate: 0.7141975334475379
+    officers:
+    - 00000000-0000-0000-0009-01f9260465a4
+    - 00000000-0000-0000-0009-01f99ee61172
+    members:
+    - 00000000-0000-0000-0009-01f9037b295b
+    - 00000000-0000-0000-0009-01f2074c69c3
+    - 00000000-0000-0000-0009-01f5d7f42cbc
+    - 00000000-0000-0000-0009-01f50812c4d3
+    pendingInvites:
+    - 00000000-0000-0000-0009-01f65e0a5905
+    - 00000000-0000-0000-0009-01fe2575e195
+    claimedChunks:
+    - world,290,279
+    - world,293,296
+    buildingLevels:
+      GUARDIAN_SHRINE: 5
+      GUILD_HALL: 5
+      CURSED_TOTEM: 5
+      WATCH_TOWER: 3
+      HOLY_BEACON: 5
+  seihainokishi:
+    name: SeihaiNoKishi
+    leader: 00000000-0000-0000-0009-01f09066fe7f
+    treasury: 155516
+    territoryLevel: 5
+    active: true
+    warsWon: 0
+    warsLost: 0
+    lastWarEndEpoch: 0
+    titles: []
+    currencyName: Dogecoin
+    exchangeRate: 0.704360303074386
+    officers: []
+    members:
+    - 00000000-0000-0000-0009-01f15069d133
+    - 00000000-0000-0000-0009-01f1a0ba7200
+    - 00000000-0000-0000-0009-01fde9fe4549
+    - 00000000-0000-0000-0009-01fdeebaf7a9
+    - 00000000-0000-0000-0009-01f6424ff87a
+    - 00000000-0000-0000-0009-01f988028918
+    - 00000000-0000-0000-0009-01f276b4cfe3
+    - 00000000-0000-0000-0009-01feb585455e
+    - 00000000-0000-0000-0009-01f7cf754324
+    - 00000000-0000-0000-0009-01fec627e1ff
+    - 00000000-0000-0000-0009-01fa74e871ce
+    - 00000000-0000-0000-0009-01fc0e68fda8
+    - 00000000-0000-0000-0009-01fb08027105
+    - 00000000-0000-0000-0009-01fd5fcd92af
+    - 00000000-0000-0000-0009-01f2ec2af587
+    - 00000000-0000-0000-0009-01f5face5808
+    - 00000000-0000-0000-0009-01f466f8771b
+    - 00000000-0000-0000-0009-01f0937dcafb
+    pendingInvites:
+    - 00000000-0000-0000-0009-01f2074c69c3
+    claimedChunks:
+    - world,78,-99
+    - world,70,-94
+    - world,75,-104
+    - world,71,-97
+    - world,71,-94
+    - world,71,-95
+    - world,69,-94
+    - world,78,-100
+    - world,69,-96
+    - world,69,-95
+    - world,77,-101
+    - world,77,-100
+    - world,71,-93
+    - world,74,-104
+    - world,79,-100
+    - world,76,-100
+    - world,72,-94
+    - world,72,-95
+    - world,70,-95
+    - world,72,-96
+    buildingLevels:
+      GUARDIAN_SHRINE: 5
+      GUILD_HALL: 5
+      CURSED_TOTEM: 5
+      WATCH_TOWER: 3
+      HOLY_BEACON: 5
